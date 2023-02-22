@@ -16,7 +16,7 @@ Loves pets(:dog::cat:), travel✈️, outdoor activities (:bike: 🏂 :golf::8ba
 <br>
 <br>
 
-### :notebook: Tech Stacks #
+### :notebook: Tech Skills #
 
 <br>
 
