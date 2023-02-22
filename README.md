@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-<!--
-**irenethebest/irenethebest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My name is Jinhee (Irene) Choi. I am a Data Scientist/Data Analyst currently looking for a job! 
+
+My name is Jinhee (Irene) Choi. 
+I am a Data Scientist/Data Analyst currently looking for a job! 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/irenejinheechoi/)
+
 
 
 ![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenethebest&show_icons=true&theme=react)
+
+
