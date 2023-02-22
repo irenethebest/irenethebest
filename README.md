@@ -12,9 +12,9 @@ Loves pets(:dog::cat:), travel✈️, outdoor activities (:bike: 🏂 :golf::8ba
 #### Want to know more about me? 
 [	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irenejinheechoi/)
 
-
-
-
+<br>
+<br>
+<br>
 
 ### :notebook: Tech Stacks #
 
@@ -32,15 +32,17 @@ Loves pets(:dog::cat:), travel✈️, outdoor activities (:bike: 🏂 :golf::8ba
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
-
-
+<br>
+<br>
+<br>
 
 ### 🏆 Github Stats
 ![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenethebest&show_icons=true&theme=react)
 
 
-
-
+<br>
+<br>
+<br>
 
 ### 📌 Pinned Repositories
 
