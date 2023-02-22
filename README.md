@@ -10,15 +10,35 @@ I was an accountant in Real Estate Investment, sales and Insurance industry befo
 
 Loves pets(:dog::cat:), travel✈️, outdoor activities (:bike: 🏂 :golf::8ball:), socializing(:beer::ramen:) and chill(:notebook::tv::computer:)
 #### Want to know more about me? 
+[	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irenejinheechoi/)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 
-### :notebook: Tech Stacks 
+
+
+
+### :notebook: Tech Stacks #
+
+<br>
+
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
 
 
 
 ### 🏆 Github Stats
 ![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenethebest&show_icons=true&theme=react)
+
+
 
 
 
