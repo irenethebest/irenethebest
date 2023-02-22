@@ -6,4 +6,4 @@
 My name is Jinhee (Irene) Choi. I am a Data Scientist/Data Analyst currently looking for a job! 
 
 
-[![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenethebest)](https://github.com/irenethebest/github-readme-stats)
+[![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenethebest&show_icons=true&theme=radical)](https://github.com/irenethebest/github-readme-stats)
