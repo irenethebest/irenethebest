@@ -8,7 +8,7 @@ My name is Jinhee (Irene) Choi.
 
 I was an accountant in Real Estate Investment, sales and Insurance industry before :grin:. As I was constantly involved in improving company's performance, I became very interested in how to analyze and utilize data more effectively and apply it to the real world. So I studied Data Science/ Data Analysis and I became a Data Scientist/Data Analyst! 
 
-Loves pets(:dog::cat:), travel✈️, outdoor activities (:bike: 🏂 :golf::8ball:), socializing(:beer::ramen:) and chill(:notebook::tv::computer:)
+I Love pets(:dog::cat:), travel✈️, outdoor activities (:bike: 🏂 :golf::8ball:), socializing(:beer::ramen:) and chill(:notebook::tv::computer:)
 #### Want to know more about me? 
 [	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irenejinheechoi/)
 
