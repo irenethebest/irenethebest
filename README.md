@@ -71,3 +71,10 @@ Loves pets(:dog::cat:), travel✈️, outdoor activities (:bike: 🏂 :golf::8ba
 
 <br>
 <br>
+##### Reference 
+
+- Braydon Coyer's github: https://github.com/braydoncoyer
+- readme-stats: https://github.com/anuraghazra/github-readme-stats
+- header: https://github.com/kyechan99/capsule-render#soft
+- markdown syntax guide: https://www.markdownguide.org/basic-syntax/
+- Blog(Written in Korean): https://kimasill.tistory.com/entry/Github-%EA%B9%83%ED%97%88%EB%B8%8C-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0
