@@ -14,12 +14,9 @@ I Love pets(:dog::cat:), travel✈️, outdoor activities (:bike: 🏂 :golf::8b
 
 <br>
 <br>
-<br>
-
 ### :notebook: Tech Skills #
 
 <br>
-
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -35,12 +32,10 @@ I Love pets(:dog::cat:), travel✈️, outdoor activities (:bike: 🏂 :golf::8b
 
 <br>
 <br>
-<br>
 
 ### 🏆 Github Stats
 ![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenethebest&show_icons=true&theme=react)
 
-<br>
 <br>
 <br>
 
