@@ -14,7 +14,7 @@ I Love pets(:dog::cat:), travel✈️, outdoor activities (:bike: 🏂 :golf::8b
 
 <br>
 <br>
-### :notebook: Tech Skills #
+### :notebook: Tech Skills 
 
 <br>
 
