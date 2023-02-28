@@ -9,16 +9,12 @@ My name is Jinhee (Irene) Choi.
 I was an accountant in Real Estate Investment, sales and Insurance industry before :grin:. As I was constantly involved in improving company's performance, I became very interested in how to analyze and utilize data more effectively and apply it to the real world. So I studied Data Science/ Data Analysis and I became a Data Scientist/Data Analyst! 
 
 I Love pets(:dog::cat:), travel✈️, outdoor activities (:bike: 🏂 :golf::8ball:), socializing(:beer::ramen:) and chill(:notebook::tv::computer:)
-#### Want to know more about me? Click below linkedin profile and add me in your connection!
+#### Want to know more about me? Click the below Linkedin profile and add me in your connection!
 [	![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irenejinheechoi/)
 
 <br>
-<br>
 
 ### :notebook: Tech Skills 
-
-<br>
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -30,14 +26,11 @@ I Love pets(:dog::cat:), travel✈️, outdoor activities (:bike: 🏂 :golf::8b
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
-<br>
 <br>
 
 ### 🏆 Github Stats
 ![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenethebest&show_icons=true&theme=react)
 
-<br>
 <br>
 
 ### 📌 Pinned Repositories
