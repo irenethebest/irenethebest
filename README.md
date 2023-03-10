@@ -28,10 +28,9 @@ I Love pets(:dog::cat:), travel✈️, outdoor activities (:bike: 🏂 :golf::8b
 
 <br>
 
-### 🏆 Github Stats
-![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenethebest&show_icons=true&theme=react)
 
-<br>
+### 🏆 Github Stats
+![Irene's GitHub stats](https://github-readme-stats.vercel.app/api?username=irenethebest&show_icons=true&theme=react) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=irenethebest&layout=compact)](https://github.com/irenethebest/github-readme-stats)
 
 ### 📌 Pinned Repositories
 <a href="https://github.com/irenethebest/Automating_Loan_Eligibility">
